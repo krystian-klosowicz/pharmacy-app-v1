@@ -3,6 +3,6 @@
 Technologies: <br>
 · Java<br>
 · JavaFX<br>
-· Spring/Sprint Boot<br>
+· Spring/Spring Boot<br>
 · Hibernate<br>
 · MySQL<br>
